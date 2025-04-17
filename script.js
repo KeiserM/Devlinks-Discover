@@ -11,8 +11,10 @@ function toggleMode() {
     if (html.classList.contains('light')) {
         //se estiver light mode, adcionar  a imagem light , e nao manter a imagem normal
         img.setAttribute('src', './assets/Ellipse.jpg')
+        img.setAttribute('alt', 'Icon from my portifolio website')
     } else{
         img.setAttribute('src', './assets/avatar.jpg')
+        img.setAttribute('alt', 'My picture "keiser"')
     }
 
 }

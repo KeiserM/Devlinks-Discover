@@ -1,6 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">
+<p align="center"> 
   Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
   <a href=".github/preview.jpg">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
